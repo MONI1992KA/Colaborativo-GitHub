@@ -159,3 +159,5 @@ Diferencias: Utilizado principalmente en el contexto de Pandoc, esta variante so
 <p style="text-align: justify;">
 Markdown es ampliamente utilizado en entornos de colaboración, como GitHub, debido a su simplicidad y legibilidad. Permite crear documentación estructurada y fácil de entender, y su formato se integra bien con sistemas de control de versiones. Esto facilita la colaboración en tiempo real y asegura consistencia en la presentación de proyectos. Además, se puede convertir fácilmente a HTML, lo que lo hace ideal para documentación en línea.
 </P>
+
+![](img\imgMM.jpg)
