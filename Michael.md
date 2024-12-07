@@ -161,3 +161,4 @@ Markdown es ampliamente utilizado en entornos de colaboración, como GitHub, deb
 </P>
 
 ![](img\imgMM.jpg)
+.
